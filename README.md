@@ -12,8 +12,8 @@ Cole o codigo do App.py e mude o nome para App.py
 
 execute e compartilhe 
 
-![Aplicação](/images/app1.png)
+![Aplicação](/images/App1.png)
 
-![Aplicação2](/images/app2.png)
+![Aplicação2](/images/App2.png)
 
-![Aplicação3](/images/app3.png)
+![Aplicação3](/images/App3.png)
